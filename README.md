@@ -82,20 +82,6 @@ The dataset contains financial sales transactions including:
 
 ---
 
-## Repository Structure
-
-```text
-Dataset/
-Python/
-SQL/
-Excel/
-PowerBI/
-Report/
-Images/
-```
-
----
-
 ## Author
 
 ANNS JANA
